@@ -1,0 +1,3 @@
+/Users/yilehu/CLionProjects/gitlet/cmake-build-debug/CMakeFiles/gitlet.dir
+/Users/yilehu/CLionProjects/gitlet/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yilehu/CLionProjects/gitlet/cmake-build-debug/CMakeFiles/rebuild_cache.dir
